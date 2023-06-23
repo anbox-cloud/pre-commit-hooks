@@ -1,0 +1,6 @@
+- id: anbox-cloud-docs-links-checker
+  name: Anbox Cloud docs links checker
+  language: script
+  entry: docs-link-checker.sh
+  description: Find Anbox Cloud docs links and warn that those should point to Discourse.
+  
